@@ -1,4 +1,4 @@
-// components/Component.jsx
+
 import Link from "next/link";
 
 export function Component() {
